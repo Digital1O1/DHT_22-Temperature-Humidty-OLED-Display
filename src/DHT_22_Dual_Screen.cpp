@@ -41,13 +41,13 @@ void loop()
         new_temp = current_temp;
         new_humidity = current_humditiy;
         OLED_Right.drawStr(15, 10, "===== Temp =====");
-        dtostrf((new_temp * 1.8) + 32, 5, 2, temp_buffer); //print value 10
+        dtostrf((new_temp * 1.8) + 32, 5, 2, temp_buffer); 
         OLED_Right.drawStr(40, 40, temp_buffer);
         OLED_Right.sendBuffer();  // transfer internal memory to the display
         OLED_Right.clearBuffer(); // clear the internal memory
 
         OLED_Left.drawStr(10, 10, "=== Humidity ===");
-        dtostrf(new_humidity, 5, 2, humidity_buffer); //print value 20
+        dtostrf(new_humidity, 5, 2, humidity_buffer); 
         OLED_Left.drawStr(40, 40, humidity_buffer);
         OLED_Left.sendBuffer();  // transfer internal memory to the display
         OLED_Left.clearBuffer(); // clear the internal memory
