@@ -103,6 +103,6 @@ If the diagram was confusing to follow, here's an in-depth explantion of what I 
 * The U8g2lib.h library (From my understanding...) only deals with Character arrays.
   * The dtostrf() function __MUST__ be used to display the data.
   
-  # That's it for now!
+# That's it for now!
   
-  Revisions to this repo will be made later this week if nessessary.
+Revisions to this repo will be made later this week if nessessary.
