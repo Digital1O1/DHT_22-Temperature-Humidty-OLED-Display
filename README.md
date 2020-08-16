@@ -11,7 +11,7 @@
 
 In this repository Visual Studio code and the Platform IO extension was used.
 
-If you do NOT want to go through the hassel of setting both VS Code and Platform IO up 
+If you do __NOT__ want to go through the hassel of setting both VS Code and Platform IO up 
 * Click on the 'SRC' folder to find the source code for this project
 * Comment out the '#include <Arduino.h>' header
 * Then copy and paste the code to your favorite text editor (To include the Arduino IDE)
