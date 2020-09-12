@@ -1,6 +1,6 @@
 # DHT_22 With Dual 1.3 OLED Displays
 
-![IMG_6136](https://user-images.githubusercontent.com/39348633/90320318-cf103d80-df05-11ea-9c90-ea1f69b4785b.jpeg)
+![DSC_0430-min](https://user-images.githubusercontent.com/39348633/93002808-328a8c80-f4ff-11ea-8444-36915ce6c085.jpg)
 
 
 ## __=== Overall goal of this project ===__
