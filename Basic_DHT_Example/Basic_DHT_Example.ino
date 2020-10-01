@@ -1,3 +1,11 @@
+/*
+  A basic Arduino sketch/.ino file that can be used to check if your DHT sensor is working correctly
+
+  The 'DHT senor library' by Adafruit, version 1.39 (currently) was downloaded via the Arduino IDE's library manager and used in this repo
+  
+*/
+
+
 //Libraries
 #include <DHT.h>;
 
